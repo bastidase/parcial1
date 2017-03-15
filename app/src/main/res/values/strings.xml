@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">parcial1</string>
-
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
 </resources>
